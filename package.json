@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_test",
+  "version": "1.0.0",
+  "description": "test node js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IhabMishriki/NodeJs_test.git"
+  },
+  "author": "ihab mishriki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IhabMishriki/NodeJs_test/issues"
+  },
+  "homepage": "https://github.com/IhabMishriki/NodeJs_test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
